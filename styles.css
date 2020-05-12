@@ -1,0 +1,16 @@
+h3 {
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+
+#boxInput {
+    width: 250px;
+    border: 5px solid #1d7fc1;
+    padding: 20px;
+    margin: 20px;
+}
+
+#largeSize {
+    font-size: 16px;
+}
